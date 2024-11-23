@@ -30,4 +30,4 @@ Navya Atal: Completing the backend integration, handling data fetching from Open
 ![image](https://github.com/user-attachments/assets/2b6aa307-d5ac-4513-9bcb-50f2f97f8a56)
 weather condition if its sunny (usually seen just after the 1st screen), but changes after you type the city name (as different cities can have different conditions)
 
-Navya ATAL
+Navya ATAL 
